@@ -15,7 +15,7 @@ nav{
     align-items: center;
     justify-content: space-between;
     padding:0 35px 0 35px ;
-    border: 2px solid red;
+    border: 1px solid red;
     border-radius: 300px;
 }
 .logo{
